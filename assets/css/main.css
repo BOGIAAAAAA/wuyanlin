@@ -271,7 +271,17 @@ ul.drop-down-menu ul li:hover > ul
     align-items: center;
 }
 
-.carreduce{
+.num-jian{
+    color: white;  
+    background: #000000;
+    width: 20px;
+    height: 30px;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0px;
+}
+.num-jia{
     color: white;  
     background: #000000;
     width: 20px;
@@ -292,7 +302,10 @@ ul.drop-down-menu ul li:hover > ul
     border: 0px;
 }
 
-.carreduce:hover{
+.num-jian:hover{
+    background: #3c3d3d;
+}
+.num-jia:hover{
     background: #3c3d3d;
 }
 .carreducecar:hover{

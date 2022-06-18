@@ -79,6 +79,11 @@
    font-family: 'Noto Sans JP', sans-serif;
    
 }
+
+
+
+
+
 .condetail
 {
     background-color: white;
@@ -141,6 +146,13 @@
     top: -300px;
     overflow: hidden;
 }
+
+
+.callmeb {
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+  }
 /*以上為止*/
 .peoplepic{
     border-radius: 15px;
@@ -169,6 +181,7 @@
     .aboutusb{
         width: 400%;
     }
+
 
   
     footer{
